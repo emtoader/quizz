@@ -4,7 +4,7 @@ A quick project that implements Node ( Express ), React + Redux, Docker, JOI, Su
 In Node and React folders use:
 npm install 
 
-Then in both:
+Then in both folders use:
 docker compose up
 
 If you wish to use projects without docker ( npm start ), please check node/app/config/db.config.js and use:
